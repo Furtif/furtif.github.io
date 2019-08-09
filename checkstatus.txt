@@ -1,3 +1,3 @@
 BotStatus=ENABLED;
-MinVersion=3.4.9.1;
+MinVersion=3.4.9.2;
 Addons=2.0.1.2;
