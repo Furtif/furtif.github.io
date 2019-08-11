@@ -11,7 +11,8 @@
       "MajorRevision": 0,
       "MinorRevision": 6
     },
-    "Enabled": false
+    "Enabled": true,
+    "Forded": false
   },
   "AccountManagerAddOns": {
     "$id": "4",
@@ -24,6 +25,7 @@
       "MajorRevision": 0,
       "MinorRevision": 3
     },
-    "Enabled": false
+    "Enabled": true,
+    "forced": false
   }
 }
