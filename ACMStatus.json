@@ -12,7 +12,7 @@
       "MinorRevision": 5
     },
     "Enabled": true,
-    "Forced": false
+    "Forced": true
   },
   "AccountManagerAddOns": {
     "$id": "4",
