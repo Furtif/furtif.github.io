@@ -6,10 +6,10 @@
       "$id": "3",
       "Major": 3,
       "Minor": 5,
-      "Build": 4,
-      "Revision": 9,
+      "Build": 5,
+      "Revision": 0,
       "MajorRevision": 0,
-      "MinorRevision": 9
+      "MinorRevision": 0
     },
     "Enabled": true,
     "Forced": true
