@@ -3,11 +3,11 @@
   "AccountManager": {
     "$id": "2",
     "Version": {
-      "$id": "3",
-      "Major": 3,
-      "Minor": 5,
-      "Build": 6,
-      "Revision": 0,
+      "$id": "4",
+      "Major": 0,
+      "Minor": 0,
+      "Build": 0,
+      "Revision": 1,
       "MajorRevision": 0,
       "MinorRevision": 0
     },
@@ -35,7 +35,7 @@
       "Major": 4,
       "Minor": 0,
       "Build": 0,
-      "Revision": 0,
+      "Revision": 1,
       "MajorRevision": 0,
       "MinorRevision": 0
     },
