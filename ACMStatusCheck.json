@@ -20,13 +20,13 @@
       "$id": "5",
       "Major": 2,
       "Minor": 0,
-      "Build": 2,
-      "Revision": 9,
+      "Build": 3,
+      "Revision": 0,
       "MajorRevision": 0,
       "MinorRevision": 0
     },
     "Enabled": true,
-    "Forced": false
+    "Forced": true
   },
   "AccountManagerNew": {
     "$id": "6",
@@ -35,7 +35,7 @@
       "Major": 4,
       "Minor": 0,
       "Build": 0,
-      "Revision": 3,
+      "Revision": 4,
       "MajorRevision": 0,
       "MinorRevision": 0
     },
