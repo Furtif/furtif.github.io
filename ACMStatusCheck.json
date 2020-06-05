@@ -7,12 +7,12 @@
       "Major": 4,
       "Minor": 0,
       "Build": 0,
-      "Revision": 4,
+      "Revision": 2,
       "MajorRevision": 0,
       "MinorRevision": 0
     },
     "Enabled": true,
-    "Forced": true
+    "Forced": false
   },
   "AccountManagerAddOns": {
     "$id": "4",
@@ -35,7 +35,7 @@
       "Major": 4,
       "Minor": 0,
       "Build": 0,
-      "Revision": 4,
+      "Revision": 5,
       "MajorRevision": 0,
       "MinorRevision": 0
     },
