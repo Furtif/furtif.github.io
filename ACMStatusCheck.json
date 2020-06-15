@@ -7,7 +7,7 @@
       "Major": 4,
       "Minor": 0,
       "Build": 1,
-      "Revision": 5,
+      "Revision": 6,
       "MajorRevision": 0,
       "MinorRevision": 0
     },
@@ -26,7 +26,7 @@
       "MinorRevision": 0
     },
     "Enabled": true,
-    "Forced": false
+    "Forced": true
   },
   "AccountManagerNew": {
     "$id": "6",
