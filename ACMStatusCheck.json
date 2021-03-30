@@ -21,11 +21,11 @@
       "Major": 2,
       "Minor": 0,
       "Build": 3,
-      "Revision": 6,
+      "Revision": 7,
       "MajorRevision": 0,
       "MinorRevision": 0
     },
-    "Enabled": false,
+    "Enabled": true,
     "Forced": true
   },
   "AccountManagerNew": {
