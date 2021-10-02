@@ -7,7 +7,7 @@
       "Major": 4,
       "Minor": 0,
       "Build": 9,
-      "Revision": 7,
+      "Revision": 8,
       "MajorRevision": 0,
       "MinorRevision": 0
     },
@@ -21,7 +21,7 @@
       "Major": 2,
       "Minor": 0,
       "Build": 4,
-      "Revision": 4,
+      "Revision": 5,
       "MajorRevision": 0,
       "MinorRevision": 0
     },
@@ -35,10 +35,10 @@
       "Major": 4,
       "Minor": 0,
       "Build": 9,
-      "Revision": 7,
+      "Revision": 8,
       "MajorRevision": 0,
       "MinorRevision": 0
     },
-    "Forced": false
+    "Forced": true
   }
 }
