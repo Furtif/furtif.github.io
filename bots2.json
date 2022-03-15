@@ -1,13 +1,5 @@
 {
- "ALLOW_COUNTRY": [
-  "DE",
-  "FR",
-  "UK",
-  "UA",
-  "GB",
-  "PT"
- ],
- "BOT_ENABLED": true,
+ "BOT_ENABLED": false,
  "USERS": [
   "tajsha",
   "furtif"
