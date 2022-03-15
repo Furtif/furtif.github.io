@@ -1,0 +1,15 @@
+{
+ "ALLOW_COUNTRY": [
+  "DE",
+  "FR",
+  "UK",
+  "UA",
+  "GB",
+  "PT"
+ ],
+ "BOT_ENABLED": true,
+ "USERS": [
+  "tajsha",
+  "furtif"
+ ]
+}
