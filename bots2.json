@@ -1,8 +1,6 @@
 {
- "BOT_ENABLED": false,
+ "BOT_ENABLED": true,
  "USERS": [
-  "furtif",
-  "tajsha",
-  "mr.been"
+  "tajsha"
  ]
 }
