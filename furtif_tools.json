@@ -1,7 +1,7 @@
 {
 	"Enabled": true,
 	"Version": "1.26",
-	"VersionForced": "1.26",
+	"VersionForced": "1.25",
 	"AppVersion": "0.283.1",
 	"Info": "Welcome to the Golbat and MITM Furtif tool.\nDiscord mode."
 }
