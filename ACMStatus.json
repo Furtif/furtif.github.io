@@ -1,0 +1,20 @@
+{
+  "$id": "1",
+  "AccountManager": {
+    "$id": "2",
+    "Version": "4.1.0.7",
+    "Enabled": true,
+    "Forced": true
+  },
+  "AccountManagerAddOns": {
+    "$id": "3",
+    "Version": "2.0.4.7",
+    "Enabled": true,
+    "Forced": true
+  },
+  "AccountManagerNew": {
+    "$id": "4",
+    "Version": "4.1.0.7",
+    "Forced": true
+  }
+}
