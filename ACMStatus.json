@@ -1,8 +1,8 @@
 {
   "AccountManager": {
-    "Version": "4.1.0.7",
+    "Version": "4.1.0.8",
     "Enabled": true,
-    "Forced": false
+    "Forced": true
   },
   "AccountManagerAddOns": {
     "Version": "2.0.4.8",
