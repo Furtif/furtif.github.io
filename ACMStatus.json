@@ -5,12 +5,12 @@
     "Forced": true
   },
   "AccountManagerAddOns": {
-    "Version": "2.0.4.7",
+    "Version": "2.0.4.8",
     "Enabled": true,
     "Forced": true
   },
   "AccountManagerNew": {
-    "Version": "4.1.0.7",
+    "Version": "4.1.0.8",
     "Forced": false
   }
 }
